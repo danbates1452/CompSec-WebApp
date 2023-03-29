@@ -10,3 +10,5 @@ Separated into two folders:
 - 'front' which is presented to the user
 
 The intent being that 'back' is placed in a backend directory that is not visible to the user, and 'front' is placed in a frontend directory visible to the user.
+
+This was approximately 2-3 weeks of on-off work alongside my studies in late november / early december 2022.
