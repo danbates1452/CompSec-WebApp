@@ -1,7 +1,7 @@
 <?php
 //All Listings, Admin Only
 
-set_include_path('/home/danbates/uni-compsec-back/');
+set_include_path('/backend-directory');
 include('helper.php');
 checkSession();
 
